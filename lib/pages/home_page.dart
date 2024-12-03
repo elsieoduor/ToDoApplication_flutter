@@ -12,7 +12,7 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   final _controller = TextEditingController();
   List toDoList = [
-    ['Code With Otabek', true],
+    ['Code With Yuki', true],
     ['Learn Flutter', true],
     ['Drink Coffee', false],
     ['Explore Firebase', false],
